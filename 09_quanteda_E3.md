@@ -127,7 +127,7 @@ Vamos usar cada um deles:
 ``` r
 lula.col |> View()
 JB.col |> View()
-ciro |> View()
+ciro.col |> View()
 ```
 
 # Comparando e plotando
